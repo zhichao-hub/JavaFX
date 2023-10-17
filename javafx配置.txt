@@ -1,0 +1,2 @@
+编辑配置->添加VM选项:
+--module-path "D:\JavaFX\javafx-sdk-17.0.8\lib" --add-modules=javafx.controls,javafx.fxml 
